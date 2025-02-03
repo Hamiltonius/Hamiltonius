@@ -1,4 +1,7 @@
-![Retro-Modern Banner](Hamiltonius.png)
+<p align="center">
+  <img src="Hamiltonius.png" alt="Retro-Modern Banner" width="75%">
+</p>
+
 
 # 🛠️ Tinkering, Learning, and Building
 Welcome, I’m **Hamiltonius**, a hobbyist and lifelong tinkerer exploring tech, automation, and security since the mid 90's. While my **expertise** is in **compliance, economics, export controls, and government FAR 15/12 contracting**, my **foundation** is built on hands-on learning—tinkering with everything from data pipelines to network security.
