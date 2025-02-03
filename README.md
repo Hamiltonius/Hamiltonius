@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hamiltonius.png" alt="Retro-Modern Banner" width="75%">
+  <img src="Hamiltonius.png" alt="Retro-Modern Banner" width="400px">
 </p>
 
 
