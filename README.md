@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hamiltonius.png" alt="Retro-Modern Banner" width="400px">
+  <img src="Hamiltonius.png" alt="Global Cyber Network" width="500px">
 </p>
 
 
