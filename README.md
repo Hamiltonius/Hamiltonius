@@ -1,5 +1,5 @@
 ## 🌍 Data, Compliance, & Cyber Strategy  
-Bridging the gap between export controls, tech, and global trade. Welcome to my workspace.
+Bridging the gap between export controls, tech, and global trade -
 
 
 <p align="center">
