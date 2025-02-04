@@ -1,5 +1,9 @@
+## 🌍 Data, Compliance, & Cyber Strategy  
+Bridging the gap between export controls, tech, and global trade. Welcome to my workspace.
+
+
 <p align="center">
-  <img src="Hamiltonius.png" alt="Global Cyber Network" width="600px" style="padding: 20px;">
+  <img src="Hamiltonius.png" alt="Global Cyber Network" width="550px" style="padding: 20px;">
 </p>
 
 
