@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hamiltonius.png" alt="Global Cyber Network" width="500px">
+  <img src="Hamiltonius.png" alt="Global Cyber Network" width="700px">
 </p>
 
 
