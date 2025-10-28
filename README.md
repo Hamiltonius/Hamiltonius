@@ -23,34 +23,16 @@ I believe **broad knowledge builds better specialists**, and I apply this philos
 
 ---
 
-🖥️ Lesson of the Month: How Export Controls Reshape Innovation
+🖥️ Lesson of the Month: Gmail API Authentication & the Power of Scoped Access
+
+Modern automation can begin with a simple question: “I wonder if I can build a pipeline to my email”, at least thats how it was for me!
+
+The Gmail API makes that possible — safely — using OAuth 2.0 and scoped authorization.
+Instead of sharing passwords or enabling risky IMAP access, OAuth issues a temporary token after you approve the app. That token grants only what’s requested (e.g., “read-only” access to Gmail). This scoped design keeps credentials safe while allowing automation to handle high-volume inbox tasks — like retrieving attachments, filing messages, or building structured data pipelines.
+
+🔐 Takeaway:
+OAuth turns authentication from an all-or-nothing model into a precision tool — empowering secure automation without compromising privacy or control.
 
 
-Each month, I’ll highlight a quick tech lesson, troubleshooting tip, or concept breakdown that I’ve learned and found useful.
-
-📌 This Month's Topic: Export Controls & the Innovation Paradox
-
-U.S. export controls aim to slow China's semiconductor development, but an unintended consequence is the acceleration of domestic innovation. With funding from the Big Fund 3.0, China has aggressively invested in AI and semiconductor manufacturing, rapidly advancing 7nm chip production without EUV lithography. While restrictions limit access to cutting-edge Western tech, they also force adaptation—reshaping global supply chains and pushing China toward self-sufficiency.
-
-
-🔍 Takeaway:
-Export controls don’t just restrict technology; they also redirect innovation, creating unpredictable shifts in global competition.  
-
----
-
-## 🚀 Coming Soon: My Next Repo
-🔧 **"Build Your Own Home Lab – From Scratch!"**  
-A step-by-step guide on setting up a **homelab**—covering everything from **hardware selection to networking basics**.  
-
-💡 **Topics:**  
-✔️ Selecting the right hardware for your homelab  
-✔️ Setting up virtual machines & containers  
-✔️ Configuring firewalls & network security  
-
-_This project will be a practical guide for anyone looking to build a **secure, self-hosted environment**._ 🏡💻 
-
----
-
-## 📫 Let’s Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/thomas-galarneau-071619693141592653589793238/)  
 📜 Open to discussions on **compliance, automation, and cybersecurity**  
